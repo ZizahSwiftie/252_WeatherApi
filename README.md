@@ -1,5 +1,3 @@
-# 3NIMBelakang_WeatherApi
-
 Nama : Nur Azizah Ulinnuha
 NIM : 20240140252
 
@@ -32,10 +30,12 @@ Contoh: `http://localhost:3001/api/lokasi?q=Kasihan`
 ## Screenshot
 
 ### Tampilan web
-![Tampilan web](screenshots/web.png)
+![Tampilan web](<img width="959" height="509" alt="image" src="https://github.com/user-attachments/assets/a076cf4b-6d5b-47ec-9fce-369a72d3b796" />
+)
 
 ### Hasil GET di browser / Postman
-![Hasil GET](screenshots/get-api.png)
+![Hasil GET](<img width="959" height="512" alt="image" src="https://github.com/user-attachments/assets/a319b986-36fb-4818-b7af-a735c519d2a4" />
+)
 
 ## Teknologi
 
